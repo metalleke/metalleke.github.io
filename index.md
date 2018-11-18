@@ -2,7 +2,7 @@
 
 * Name: Kevin Van Raepenbusch
 * Location: Belgium
-* Occupation (Java) Developer
+* Occupation: (Java) Developer
 
 ## My links
 * [Github](https://github.com/metalleke)
