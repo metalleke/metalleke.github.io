@@ -1,5 +1,3 @@
-# Hello, world!
-
 ## Aboutme
 
 * Name: Kevin Van Raepenbusch
