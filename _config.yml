@@ -1,1 +1,9 @@
+name: metalleke.net
 theme: jekyll-theme-minimal
+description: metalleke.net
+footer-links:
+  github: metalleke
+  linkedin: kevinvr
+  twitter: metalleke
+google_analytics: UA-2477550-5
+url: www.metalleke.net
