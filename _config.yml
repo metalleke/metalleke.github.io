@@ -1,9 +1,11 @@
-name: metalleke.net
+name: metalleke.github.io
 theme: jekyll-theme-midnight
-description: metalleke.net
+description: metalleke.github.io
+title: metalleke.github.io
+author:
+  name: Kevin Van Ryckegem
+  bio: Software Engineer
 footer-links:
   github: metalleke
   linkedin: kevinvr
-  twitter: metalleke
-google_analytics: UA-2477550-5
-url: www.metalleke.net
+url: metalleke.github.io
